@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hariprasad1307/learn-todo/static/css/main.699b0a44.css",
+    "main.js": "/hariprasad1307/learn-todo/static/js/main.a05ab1f8.js",
+    "static/js/453.37753ddd.chunk.js": "/hariprasad1307/learn-todo/static/js/453.37753ddd.chunk.js",
+    "index.html": "/hariprasad1307/learn-todo/index.html",
+    "main.699b0a44.css.map": "/hariprasad1307/learn-todo/static/css/main.699b0a44.css.map",
+    "main.a05ab1f8.js.map": "/hariprasad1307/learn-todo/static/js/main.a05ab1f8.js.map",
+    "453.37753ddd.chunk.js.map": "/hariprasad1307/learn-todo/static/js/453.37753ddd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.699b0a44.css",
+    "static/js/main.a05ab1f8.js"
+  ]
+}
